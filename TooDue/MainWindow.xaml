@@ -5,7 +5,9 @@
     <Grid>
         <TabControl>
             <TabItem></TabItem>
-            <TabItem></TabItem>    
+            <TabItem></TabItem>
+	    <TabItem></TabItem>
+	    <TabItem></TabItem>
         </TabControl>
     </Grid>
 </Window>
